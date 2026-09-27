@@ -1,9 +1,9 @@
 #include "config.h"
 
-const char* ssid = "gusgus";
-const char* password = "gusgus19++";
-const char* mqtt_server = "broker.hivemq.com";
-const int port = 0000;
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
+const char* mqtt_server = "BROKER_HOST";
+const int port = BROKER_PORT;
 
 const Topics topics = {
     .manual = "smartcar/modo/manual",
