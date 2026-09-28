@@ -1,8 +1,6 @@
 # Smart Car
 
-Vehículo autónomo basado en ESP32, con control web en tiempo real y comunicación mediante MQTT.
-
-El proyecto permite controlar el vehículo de forma manual o utilizar distintos modos autónomos, como seguimiento de línea, evasión de obstáculos y navegación mediante GPS. Es compatible con brokers MQTT locales o públicos y no depende de aplicaciones móviles ni de servicios propietarios.
+Vehículo autónomo basado en ESP32, con control web en tiempo real y comunicación mediante MQTT. El proyecto permite controlar el vehículo de forma manual o utilizar distintos modos autónomos, como seguimiento de línea, evasión de obstáculos y navegación mediante GPS. Es compatible con brokers MQTT locales o públicos y no depende de aplicaciones móviles ni de servicios propietarios.
 
 ![hardware](./assets/hardware.jpeg)
 
