@@ -99,7 +99,7 @@ const navegacion = {
         if (this.mapa) this.mapa.remove(); // Evitar duplicados
 
         this.mapa = L.map("mapa", {
-            center: [13.498611, -89.383977],
+            center: [0, 0],
             zoom: 16,
             maxBounds: [[-90, -180], [90, 180]], // Límite para evitar mapa en el vacío
             maxBoundsViscosity: 1.0,
